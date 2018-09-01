@@ -7,7 +7,7 @@ https://www.vishay.com/docs/84339/designingveml6075.pdf
 
 There are 2 files included:
 
-veml6075: The driver.
+veml6075.py: The driver.
 
 main.py: This is a sample program to show how this driver can be used.
 To show the measured data a small OLED display is used in this sample.
