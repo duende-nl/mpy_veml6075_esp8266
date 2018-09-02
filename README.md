@@ -1,4 +1,4 @@
-# mpy_veml6070_esp8266
+# mpy_veml6075_esp8266
 This is a driver for the Vishay VEML6075 UV-A and UV-B sensor for use with MicroPython on ESP8266 boards.
 
 The VEML6075 sensor communicates via I2C protocol.
