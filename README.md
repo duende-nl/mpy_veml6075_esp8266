@@ -12,3 +12,6 @@ veml6075.py: The driver.
 main.py: This is a sample program to show how this driver can be used.
 To show the measured data a small OLED display is used in this sample.
 
+I used https://github.com/alexhla/uva-uvb-sensor-veml6075-driver as a
+starting point, but because there is no smbus module available for 
+micropython for the ESP8266 I had to do a rewrite.
